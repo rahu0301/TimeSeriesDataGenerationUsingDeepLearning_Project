@@ -1,6 +1,6 @@
 Time Series Data Generation using Deep Learning (TimeGAN)
 This project demonstrates a complete pipeline for time series data preprocessing, forecasting, and synthetic data generation using deep learning — particularly the TimeGAN model. The primary objective is to transform raw time series data into a stationary form, perform classical forecasting with ARIMA, and generate realistic synthetic time series using TimeGAN. A GUI was also developed for visualizing and evaluating real vs. synthetic data.
- Features
+Features
 📈 Time Series Transformation Pipeline
 
 ADF Stationarity Test
